@@ -1,4 +1,4 @@
-# Fullstack Challenge
+# Personal Weather (Fullstack)
 
 ## Instructions
 Using Laravel and VueJS, create an application which shows the weather for a set of users.
